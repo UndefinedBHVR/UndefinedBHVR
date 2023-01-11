@@ -6,7 +6,7 @@
 - An unnamed Class Based Movement Shooter written in Rust using Bevy.
 - A music streaming service I can't talk about quite yet.
 - Straosphere, a social network backend written in Rust.
-- Earthquake, a serverside Minecraft Quilt mod allowing for custom dimensions with their own unique generators.
+- Earthquake, a pathfinding engine written for the Bevy Engine.
 
 ##### ABOUT
 - ⚙️`Rust`, `C++`, `JS` and `Java` are my four most used languages.
