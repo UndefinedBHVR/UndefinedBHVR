@@ -1,6 +1,6 @@
 ### Hello
 
-#### My name is Alex, I'm a hobbyist software engineer.
+#### My name is Alex, I'm a professional software engineer.
 
 ##### PROJECTS
 - An unnamed Class Based Movement Shooter written in Rust using Bevy.
@@ -9,14 +9,11 @@
 - Earthquake, a pathfinding engine written for the Bevy Engine.
 
 ##### ABOUT
-- ⚙️`Rust`, `C++`, `JS` and `Java` are my four most used languages.
+- ⚙️`Rust`, `C++`, `JS` and `PHP` are my four most used languages.
 - ✨When I'm not programming I also do webdesign using `Figma`.
-- 🌱I'm currently working on learning how to use a modal text editor named `Helix`
+- 🌱I'm currently in the process of learning Kubernetes.
 - 😄My pronouns are `he`/`him` but really you can call me whatever.
-- ⚡Random Fact: My most played game by far is `Team Fortress 2`, with `4500+` hours spread across five different accounts.
-
-##### CONTACT
-- TODO: Make contact page on personal website.
+- ⚡Random Fact: My most played game by far is `Team Fortress 2`, with `6400+` hours spread across five different accounts.
 
 <!--
 **UndefinedBHVR/UndefinedBHVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
