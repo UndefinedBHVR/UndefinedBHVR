@@ -2,12 +2,6 @@
 
 #### My name is Alex, I'm a professional software engineer.
 
-##### PROJECTS
-- An unnamed Class Based Movement Shooter written in Rust using Bevy.
-- A music streaming service I can't talk about quite yet.
-- Straosphere, a social network backend written in Rust.
-- Earthquake, a pathfinding engine written for the Bevy Engine.
-
 ##### ABOUT
 - ⚙️`Rust`, `C++`, `JS` and `PHP` are my four most used languages.
 - ✨When I'm not programming I also do webdesign using `Figma`.
